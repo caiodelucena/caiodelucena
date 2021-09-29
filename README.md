@@ -1,16 +1,17 @@
-# Olá 😉
-<div>
-  
-  <img align="right" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiodelucena&layout=compact&langs_count=16"/>
-  <p align="left">
-    Chamo-me Caio e sou desenvolvedor web. Sou apaixonado por programação e tenho como objetivo aprender cada vez mais para poder acrescentar no desenvolvimento tecnológico.
+# Olá! Eu sou o Caio Lucena
+
+<div style="display: block">
+    Atualmente sou estudante de Engenharia de Software e já atuo como Desenvolvedor Web.<br> Sou apaixonado por programação e tenho como objetivo aprender cada vez mais para poder acrescentar no desenvolvimento tecnológico.
   </p>
 
 </div>
 
 #
+ <img align="right" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiodelucena&layout=compact&langs_count=16&theme=dark"/>
+ <p align="left">
 
-<div style="display: inline_block"><br>
+### __FERRAMENTAS__
+<div style="display: inline-block" >Estas são as ferramentas tenho conhecimento e que estou aprendendo.<br><br>
   <img align="center" alt="Caio-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
   <img align="center" alt="Caio-RoR" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg">
   <img align="center" alt="Caio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -23,6 +24,15 @@
 </div>
   
 #
+
+### __IDIOMAS__
+</div>
+<div style="display: inline-block">Buscando sempre aprender novos idiomas e culturas.<br><br>
+<img src="https://img.icons8.com/color/48/000000/brazil-circular.png" height="30" width="30" title="Português"/>
+<img src="https://img.icons8.com/color/48/000000/usa-circular.png" height="30" width="30" title="English"/>
+</div>
+  
+##
  
 <div> 
 
