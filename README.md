@@ -11,7 +11,7 @@
  <p align="left">
 
 ### __FERRAMENTAS__
-<div style="display: inline-block" >Estas são as ferramentas tenho conhecimento e quais continuo aprendendo.<br><br>
+<div style="display: inline-block" >Estas são as ferramentas tenho que conhecimento e quais continuo aprendendo.<br><br>
   <img align="center" alt="Caio-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
   <img align="center" alt="Caio-RoR" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg">
   <img align="center" alt="Caio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
